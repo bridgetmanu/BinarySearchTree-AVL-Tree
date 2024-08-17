@@ -1,4 +1,4 @@
-BST and AVL Trees
+BST and AVL Trees (Incomplete)
 The source code is used implement binary search trees and AVL trees. 
 The code consist of the following:
  - Class BinarySearchTree
